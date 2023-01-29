@@ -1,2 +1,2 @@
 # yahaBB
-Some kind of forum software.
+Some kind of bulletin board software (forum forum).
