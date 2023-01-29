@@ -1,2 +1,2 @@
 # yahaBB
-Some kind of forum application.
+Some kind of forum software.
